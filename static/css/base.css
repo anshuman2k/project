@@ -1,0 +1,37 @@
+.logo{
+    width: 3%;
+    height: 3%;
+    margin-left: 15%;
+}
+
+.navbar-brand{
+    margin-left: 2%;
+}
+
+nav a{
+    margin-left: 15%;
+}
+
+nav ul{
+    margin-left: 50%;
+}
+
+nav ul li{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+nav ul li:hover{
+    text-decoration: underline;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:  #f8c045;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+  }
